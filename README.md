@@ -1,3 +1,9 @@
+Student Details - 
+•	Name : Kasture Swarada Pramod
+•	E-mail : swaradakasture0206@gmail.com
+•	Class : T.Y. ECM
+•	Roll Number : 33
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # House Price India EDA & Modeling
 
 This project provides an interactive web application built with **Streamlit** to perform Exploratory Data Analysis (EDA) and apply Machine Learning models to the House Price India dataset.
