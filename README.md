@@ -1,8 +1,12 @@
 Student Details - 
 •	Name : Kasture Swarada Pramod
+
 •	E-mail : swaradakasture0206@gmail.com
+
 •	Class : T.Y. ECM
+
 •	Roll Number : 33
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # House Price India EDA & Modeling
 
